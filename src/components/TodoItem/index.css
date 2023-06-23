@@ -1,0 +1,20 @@
+.tain-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    padding: 5px;
+    margin-left: 20px;
+    border-radius: 5px;
+    color: #ff0b37;
+    background-color: #ffffff;
+    border: 1px solid #ff0b37;
+    cursor: pointer;
+}
+
+.content {
+    font-size: 18px;
+    color: #000000;
+}
